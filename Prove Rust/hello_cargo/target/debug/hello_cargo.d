@@ -1,0 +1,1 @@
+E:\WDD230\ repository\ back\ up\byui\git\CSE310\CSE310ErikMportfolio\Prove\ Rust\hello_cargo\target\debug\hello_cargo.exe: E:\WDD230\ repository\ back\ up\byui\git\CSE310\CSE310ErikMportfolio\Prove\ Rust\hello_cargo\src\main.rs
