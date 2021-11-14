@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.0" orientation="orthogonal" renderorder="right-down" width="200" height="12" tilewidth="128" tileheight="128" infinite="0" backgroundcolor="#ababff" nextlayerid="12" nextobjectid="1">
+ <tileset firstgid="1" name="tileset" tilewidth="128" tileheight="128" tilecount="12" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="101">
+   <image width="128" height="128" source="../images/snow_pile.png"/>
+  </tile>
+  <tile id="102">
+   <image width="128" height="128" source="../images/snowCenter.png"/>
+  </tile>
+  <tile id="117">
+   <image width="128" height="128" source="../images/snowMid.png"/>
+  </tile>
+  <tile id="187">
+   <image width="128" height="128" source="../images/saw.png"/>
+  </tile>
+  <tile id="188">
+   <image width="128" height="128" source="../images/virus.png"/>
+  </tile>
+  <tile id="189">
+   <image width="128" height="128" source="../images/virus.png"/>
+  </tile>
+  <tile id="190">
+   <image width="128" height="128" source="../images/bro nate crouch.png"/>
+  </tile>
+  <tile id="191">
+   <image width="128" height="128" source="../images/bro nate masked crouch.png"/>
+  </tile>
+  <tile id="192">
+   <image width="128" height="128" source="../images/bro nate masked.png"/>
+  </tile>
+  <tile id="193">
+   <image width="128" height="128" source="../images/bro nate norm.png"/>
+  </tile>
+  <tile id="194">
+   <image width="128" height="128" source="../images/mask powup.png"/>
+  </tile>
+  <tile id="195">
+   <image width="128" height="128" source="../images/sanitize prize item.png"/>
+  </tile>
+ </tileset>
+ <layer id="6" name="Platform (Snow)" width="200" height="12" locked="1">
+  <data encoding="base64" compression="zlib">
+   eJztwzENAAAIA7C5xQH6UcDDS5s0AQAAAAAAAL5odV2qejiMh/0h
+  </data>
+ </layer>
+ <layer id="7" name="Don't Touch (Viruses)" width="200" height="12" locked="1">
+  <data encoding="base64" compression="zlib">
+   eJzt1UkOgCAMAED+/yd9m2cOAq0VEzNz7hYS2tYAAAAA4D/Ojfmz2Mwsu/uv9ovMdRTFRK3WfNp7ll81xxtvBPRG/2y096L7fVetbN2q+SpvRWQH3sVm92g0L9u/4l58dXMBAOhdbo8cIQ==
+  </data>
+ </layer>
+ <layer id="9" name="Foreground" width="200" height="12" visible="0" locked="1">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20Hb6AAAAAAAAAAAAB4DCWAAAE=
+  </data>
+ </layer>
+ <layer id="11" name="Shield (Mask)" width="200" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt1MEJACEMBED7b0sL8+nvUEjQ05kCQrKBLQUAAAAAYGjB82rwvCzZe37l+peM4GXR3Tgjshv0zLCSxY6/Z7rtHgCAU3T+eAhn
+  </data>
+ </layer>
+ <layer id="10" name="Background (Clouds)" width="200" height="12" locked="1">
+  <data encoding="base64" compression="zlib">
+   eJzt11sOgDAIRNGu1v0vwfjbxFgLyID3fLdM38Yx0NXRLD97PpfdMbzpF5ERvXae9S21Ks0zI1uhRuRdWG2vUPeubdTYPCnfUXXWfc9851eyKpxH61pnvKNRb5tH/4qZ1gyvfI+Mud1TP8U9Vvxf+HKd/v5dBAAAAAAAAIBOTh+3Frc=
+  </data>
+ </layer>
+</map>
